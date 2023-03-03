@@ -1,0 +1,11 @@
+{
+    "loglevel": "info",
+    "port": 8080,
+    "database": {
+        "host": "127.0.0.1",
+        "port": 5432,
+        "name": "fun",
+        "username": "postgres",
+        "password": "123"
+    }
+}
